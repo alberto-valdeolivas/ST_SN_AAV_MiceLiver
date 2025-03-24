@@ -1,0 +1,812 @@
+Chromosome	Start	End	cM	strand GRCm39	MGI ID	Feature Type	Symbol	Name		
+Y	991630	991748		-	MGI:4421733	rRNA gene	n-R5s1	nuclear encoded rRNA 5S 1	
+Y	74760409	74760516		-	MGI:6845158	rRNA gene	Gm54339	predicted gene, 54339	
+Y	74922124	74922231		-	MGI:6845160	rRNA gene	Gm54340	predicted gene, 54340	
+Y	83686611	83686718		-	MGI:6845166	rRNA gene	Gm54343	predicted gene, 54343	
+Y	83823857	83823964		-	MGI:6845168	rRNA gene	Gm54344	predicted gene, 54344	
+Y	85425287	85425394		-	MGI:6845170	rRNA gene	Gm54345	predicted gene, 54345	
+Y	85785711	85785818		-	MGI:6845172	rRNA gene	Gm54346	predicted gene, 54346	
+Y	86337286	86337393		-	MGI:6845174	rRNA gene	Gm54347	predicted gene, 54347	
+Y	54925576	54925683		-	MGI:6845176	rRNA gene	Gm54348	predicted gene, 54348	
+Y	1308273	1308375		-	MGI:5455342	snRNA gene	Gm25565	predicted gene, 25565	
+Y					MGI:7408502	non-coding RNA gene	Circsry	Sry circular RNA	
+Y	14525080	14528058		-	MGI:5610215	unclassified gene	Gm36987	predicted gene, 36987	
+Y	40144240	40147214		+	MGI:5610260	unclassified gene	Gm37032	predicted gene, 37032	
+Y	16691330	16697033		-	MGI:5610386	unclassified gene	Gm37158	predicted gene, 37158	
+Y	4666848	4669808		+	MGI:5610450	unclassified gene	Gm37222	predicted gene, 37222	
+Y	5912031	5915279		-	MGI:5610464	unclassified gene	Gm37236	predicted gene, 37236	
+Y	8251026	8254057		-	MGI:5611179	unclassified gene	Gm37951	predicted gene, 37951	
+Y	19237403	19240380		-	MGI:5611322	unclassified gene	Gm38094	predicted gene, 38094	
+Y	40639526	40639635		+	MGI:6845162	miRNA gene	Gm54341	predicted gene, 54341	
+Y	40644083	40644192		+	MGI:6845164	miRNA gene	Gm54342	predicted gene, 54342	
+Y	5542752	5542861		+	MGI:6845178	miRNA gene	Gm54349	predicted gene, 54349	
+Y	20134948	20135057		+	MGI:6845180	miRNA gene	Gm54350	predicted gene, 54350	
+Y	991657	991716		-	MGI:6845182	miRNA gene	Gm54351	predicted gene, 54351	
+Y	2446010	2446108		-	MGI:6845184	miRNA gene	Gm54352	predicted gene, 54352	
+Y	1096861	1245759		-	MGI:894810	protein coding gene	Uty	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	
+Y	67057012	67059341		-	MGI:1917259	protein coding gene	Ssty2	spermiogenesis specific transcript on the Y 2	
+Y	1260771	1286629		-	MGI:1349406	protein coding gene	Ddx3y	DEAD box helicase 3, Y-linked	
+Y	1010543	1028847		+	MGI:1349430	protein coding gene	Eif2s3y	eukaryotic translation initiation factor 2, subunit 3, structural gene Y-linked	
+Y	2662471	2663658		-	MGI:98660	protein coding gene	Sry	sex determining region of Chr Y	
+Y	818612	843684		+	MGI:98891	protein coding gene	Uba1y	ubiquitin-activating enzyme, Chr Y	
+Y	17400761	17402715		+	MGI:1921734	protein coding gene	Rbm31y	RNA binding motif 31, Y-linked	
+Y	18089167	18091551		+	MGI:1314663	protein coding gene	Ssty1	spermiogenesis specific transcript on the Y 1	
+Y	2830680	2841854		+	MGI:104732	protein coding gene	Rbmy	RNA binding motif protein, Y chromosome	
+Y	1298961	1459782		-	MGI:1313274	protein coding gene	Usp9y	ubiquitin specific peptidase 9, Y chromosome	
+Y	725207	797409		-	MGI:99212	protein coding gene	Zfy1	zinc finger protein 1, Y-linked	
+Y	2106175	2170409		-	MGI:99213	protein coding gene	Zfy2	zinc finger protein 2, Y-linked	
+Y	897566	943813		+	MGI:99780	protein coding gene	Kdm5d	lysine demethylase 5D	
+Y	57195734	57221886		+	MGI:2687328	protein coding gene	Sly	Sycp3 like Y-linked	
+Y	70023890	70024504		-	MGI:5578785	protein coding gene	Gm28079	predicted gene 28079	
+Y	88064584	88090763		+	MGI:5578808	protein coding gene	Gm28102	predicted gene 28102	
+Y	5793395	5795728		+	MGI:5578877	protein coding gene	Gm28171	predicted gene 28171	
+Y	31558069	31590101		-	MGI:5579196	protein coding gene	Gm28490	predicted gene 28490	
+Y	10412737	10444691		+	MGI:5579216	protein coding gene	Gm28510	predicted gene 28510	
+Y	48862528	48887030		+	MGI:5579259	protein coding gene	Gm28553	predicted gene 28553	
+Y	7724389	7749003		+	MGI:5579282	protein coding gene	Gm28576	predicted gene 28576	
+Y	83042216	83068570		+	MGI:5579533	protein coding gene	Gm28827	predicted gene 28827	
+Y	50093855	50118710		+	MGI:5579576	protein coding gene	Gm28870	predicted gene 28870	
+Y	60249745	60262642		+	MGI:5579597	protein coding gene	Gm28891	predicted gene 28891	
+Y	80938264	80964527		+	MGI:5579603	protein coding gene	Gm28897	predicted gene 28897	
+Y	6583546	6615511		+	MGI:5579625	protein coding gene	Gm28919	predicted gene 28919	
+Y	57714225	57740460		+	MGI:5579667	protein coding gene	Gm28961	predicted gene 28961	
+Y	7255234	7279825		+	MGI:5579704	protein coding gene	Gm28998	predicted gene 28998	
+Y	7994833	7997168		-	MGI:5579755	protein coding gene	Gm29049	predicted gene 29049	
+Y	74481800	74508227		+	MGI:5579816	protein coding gene	Gm29110	predicted gene 29110	
+Y	42524547	42537580		-	MGI:5579982	protein coding gene	Gm29276	predicted gene 29276	
+Y	2932582	2939416		+	MGI:5579995	protein coding gene	Rbmyf4	RNA binding motif protein Y-linked family member 4	
+Y	12274635	12306702		+	MGI:5580260	protein coding gene	Gm29554	predicted gene 29554	
+Y	78224262	78250458		+	MGI:5580270	protein coding gene	Gm29564	predicted gene 29564	
+Y	30681020	30693891		-	MGI:5580288	protein coding gene	Gm29582	predicted gene 29582	
+Y	70312331	70312943		-	MGI:5580350	protein coding gene	Gm29644	predicted gene 29644	
+Y	20967477	20993657		-	MGI:5589025	protein coding gene	Gm29866	predicted gene, 29866	
+Y	2599099	2599434		+	MGI:3779546	protein coding gene	H2al2c	H2A histone family member L2C	
+Y	3771673	3783267		+	MGI:3781554	protein coding gene	Rbmyf9	RNA binding motif protein Y-linked family member 9	
+Y	2785165	2796205		-	MGI:3782239	protein coding gene	Rbmyf1	RNA binding motif protein Y-linked family member 1	
+Y	17935713	17937330		-	MGI:3526567	protein coding gene	Srsy	serine-rich, secreted, Y-linked	
+Y	2900989	2912206		+	MGI:3708825	protein coding gene	Rbmyf3	RNA binding motif protein Y-linked family member 3	
+Y	2862139	2873496		+	MGI:3710530	protein coding gene	Rbmyf2	RNA binding motif protein Y-linked family member 2	
+Y	2720339	2720674		-	MGI:3710623	protein coding gene	H2al2b	H2A histone family member L2B	
+Y	89724693	89756801		-	MGI:5440224	protein coding gene	Gm21996	predicted gene 21996	
+Y	6680421	6682872		-	MGI:5433883	protein coding gene	Gm21719	predicted gene, 21719	
+Y	9199824	9202190		-	MGI:5433885	protein coding gene	Gm21721	predicted gene, 21721	
+Y	13347944	13353326		-	MGI:5433889	protein coding gene	Gm21725	predicted gene, 21725	
+Y	44206821	44219774		-	MGI:5433903	protein coding gene	Gm21739	predicted gene, 21739	
+Y	80145048	80171244		+	MGI:5433924	protein coding gene	Gm21760	predicted gene, 21760	
+Y	18061694	18066076		-	MGI:5433928	protein coding gene	Gm21764	predicted gene, 21764	
+Y	13940591	13942860		+	MGI:5433931	protein coding gene	Gm21767	predicted gene, 21767	
+Y	25263623	25264705		-	MGI:5433937	protein coding gene	Gm21773	predicted gene, 21773	
+Y	76389931	76391013		+	MGI:5433940	protein coding gene	Gm21776	predicted gene, 21776	
+Y	5944210	5944908		+	MGI:5433942	protein coding gene	Gm21778	predicted gene, 21778	
+Y	44935913	44936608		-	MGI:5433947	protein coding gene	Gm21783	predicted gene, 21783	
+Y	40729987	40736524		-	MGI:5433961	protein coding gene	Gm21797	predicted gene, 21797	
+Y	41356430	41362965		+	MGI:5433964	protein coding gene	Gm21800	predicted gene, 21800	
+Y	9344836	9347184		-	MGI:5433976	protein coding gene	Gm21812	predicted gene, 21812	
+Y	18649068	18655605		+	MGI:5433986	protein coding gene	Gm21822	predicted gene, 21822	
+Y	13222950	13224567		-	MGI:5433992	protein coding gene	Gm21828	predicted gene, 21828	
+Y	5656986	5659574		+	MGI:5434018	protein coding gene	Gm21854	predicted gene, 21854	
+Y	55728335	55754487		+	MGI:5434022	protein coding gene	Gm21858	predicted gene, 21858	
+Y	58810230	58823110		-	MGI:5434025	protein coding gene	Gm21861	predicted gene, 21861	
+Y	40246331	40270796		-	MGI:5434029	protein coding gene	Gm21865	predicted gene, 21865	
+Y	13464457	13470994		-	MGI:5434030	protein coding gene	Gm21866	predicted gene, 21866	
+Y	9413518	9416148		-	MGI:5434038	protein coding gene	Gm21874	predicted gene, 21874	
+Y	40334497	40337737		-	MGI:5434046	protein coding gene	Gm21882	predicted gene, 21882	
+Y	13132370	13138907		-	MGI:5434055	protein coding gene	Gm21891	predicted gene, 21891	
+Y	17845144	17851681		-	MGI:5434068	protein coding gene	Gm21904	predicted gene, 21904	
+Y	74634284	74637525		+	MGI:5434077	protein coding gene	Gm21913	predicted gene, 21913	
+Y	24750506	24751588		-	MGI:5434085	protein coding gene	Gm21921	predicted gene, 21921	
+Y	65386218	65412441		+	MGI:5434092	protein coding gene	Gm20736	predicted gene, 20736	
+Y	10533730	10534524		-	MGI:5434093	protein coding gene	Gm20737	predicted gene, 20737	
+Y	37913165	37915483		+	MGI:5434094	protein coding gene	Gm20738	predicted gene, 20738	
+Y	53412532	53414870		-	MGI:5434103	protein coding gene	Gm20747	predicted gene, 20747	
+Y	17876259	17877053		+	MGI:5434128	protein coding gene	Gm20772	predicted gene, 20772	
+Y	13495642	13496340		+	MGI:5434129	protein coding gene	Gm20773	predicted gene, 20773	
+Y	10750128	10750922		-	MGI:5434133	protein coding gene	Gm20777	predicted gene, 20777	
+Y	48316479	48329354		+	MGI:5434148	protein coding gene	Gm20792	predicted gene, 20792	
+Y	40761780	40762574		+	MGI:5434151	protein coding gene	Gm20795	predicted gene, 20795	
+Y	78846990	78847988		-	MGI:5434162	protein coding gene	Gm20806	predicted gene, 20806	
+Y	13044413	13045207		+	MGI:5434163	protein coding gene	Gm20807	predicted gene, 20807	
+Y	24411750	24412744		+	MGI:5434165	protein coding gene	Gm20809	predicted gene, 20809	
+Y	12383184	12383867		+	MGI:5434168	protein coding gene	Gm20812	predicted gene, 20812	
+Y	75208551	75233132		+	MGI:5434170	protein coding gene	Gm20814	predicted gene, 20814	
+Y	8832821	8835169		-	MGI:5434171	protein coding gene	Gm20815	predicted gene, 20815	
+Y	68549224	68551555		+	MGI:5434172	protein coding gene	Gm20816	predicted gene, 20816	
+Y	68817865	68843997		-	MGI:5434173	protein coding gene	Gm20817	predicted gene, 20817	
+Y	86073041	86099221		+	MGI:5434176	protein coding gene	Gm20820	predicted gene, 20820	
+Y	9781804	9784197		+	MGI:5434177	protein coding gene	Gm20821	predicted gene, 20821	
+Y	15882559	15883245		-	MGI:5434178	protein coding gene	Gm20822	predicted gene, 20822	
+Y	62471038	62473373		-	MGI:5434179	protein coding gene	Gm20823	predicted gene, 20823	
+Y	8257907	8284105		+	MGI:5434180	protein coding gene	Gm20824	predicted gene, 20824	
+Y	8069310	8069993		-	MGI:5434181	protein coding gene	Gm20825	predicted gene, 20825	
+Y	7636216	7636973		-	MGI:5434182	protein coding gene	Gm20826	predicted gene, 20826	
+Y	11197162	11197848		-	MGI:5434184	protein coding gene	Gm20828	predicted gene, 20828	
+Y	6916434	6917118		-	MGI:5434186	protein coding gene	Gm20830	predicted gene, 20830	
+Y	17965160	17967601		+	MGI:5434187	protein coding gene	Gm20831	predicted gene, 20831	
+Y	10322751	10323434		-	MGI:5434190	protein coding gene	Gm20834	predicted gene, 20834	
+Y	36664639	36689204		-	MGI:5434191	protein coding gene	Gm20835	predicted gene, 20835	
+Y	90412544	90425388		+	MGI:5434193	protein coding gene	Gm20837	predicted gene, 20837	
+Y	33485605	33498494		-	MGI:5434194	protein coding gene	Gm20838	predicted gene, 20838	
+Y	72232330	72256967		-	MGI:5434199	protein coding gene	Gm20843	predicted gene, 20843	
+Y	75728015	75752621		+	MGI:5434206	protein coding gene	Gm20850	predicted gene, 20850	
+Y	66751056	66753392		-	MGI:5434208	protein coding gene	Gm20852	predicted gene, 20852	
+Y	85539792	85540788		-	MGI:5434210	protein coding gene	Gm20854	predicted gene, 20854	
+Y	35061226	35085758		-	MGI:5434211	protein coding gene	Gm20855	predicted gene, 20855	
+Y	21242966	21243828		+	MGI:5434221	protein coding gene	Gm20865	predicted gene, 20865	
+Y	77972148	77974473		-	MGI:5434223	protein coding gene	Gm20867	predicted gene, 20867	
+Y	71480718	71506901		+	MGI:5434225	protein coding gene	Gm20869	predicted gene, 20869	
+Y	71704736	71729300		+	MGI:5434226	protein coding gene	Gm20870	predicted gene, 20870	
+Y	6268725	6269423		+	MGI:5434229	protein coding gene	Gm20873	predicted gene, 20873	
+Y	17093879	17095887		+	MGI:5434233	protein coding gene	Gm20877	predicted gene, 20877	
+Y	50606254	50630845		+	MGI:5434239	protein coding gene	Gm20883	predicted gene, 20883	
+Y	70454574	70479235		+	MGI:5434244	protein coding gene	Gm20888	predicted gene, 20888	
+Y	26706146	26730721		-	MGI:5434246	protein coding gene	Gm20890	predicted gene, 20890	
+Y	28200893	28225434		-	MGI:5434250	protein coding gene	Gm20894	predicted gene, 20894	
+Y	35850870	35875451		-	MGI:5434252	protein coding gene	Gm20896	predicted gene, 20896	
+Y	38431602	38456160		-	MGI:5434253	protein coding gene	Gm20897	predicted gene, 20897	
+Y	73682003	73706559		+	MGI:5434259	protein coding gene	Gm20903	predicted gene, 20903	
+Y	37188961	37213517		-	MGI:5434261	protein coding gene	Gm20905	predicted gene, 20905	
+Y	87563662	87586764		+	MGI:5434262	protein coding gene	Gm20906	predicted gene, 20906	
+Y	64483218	64507785		+	MGI:5434264	protein coding gene	Gm20908	predicted gene, 20908	
+Y	21164570	21166905		+	MGI:5434265	protein coding gene	Gm20909	predicted gene, 20909	
+Y	81470698	81495159		+	MGI:5434267	protein coding gene	Gm20911	predicted gene, 20911	
+Y	5727496	5728179		+	MGI:5434270	protein coding gene	Gm20914	predicted gene, 20914	
+Y	79332257	79356780		+	MGI:5434272	protein coding gene	Gm20916	predicted gene, 20916	
+Y	79160062	79161056		-	MGI:5434273	protein coding gene	Gm20917	predicted gene, 20917	
+Y	5045445	5046128		+	MGI:5434274	protein coding gene	Gm20918	predicted gene, 20918	
+Y	51850123	51874684		+	MGI:5434276	protein coding gene	Gm20920	predicted gene, 20920	
+Y	65213713	65216055		-	MGI:5434280	protein coding gene	Gm20924	predicted gene, 20924	
+Y	53841947	53866533		+	MGI:5434285	protein coding gene	Gm20929	predicted gene, 20929	
+Y	55210299	55236441		+	MGI:5434287	protein coding gene	Gm20931	predicted gene, 20931	
+Y	68280116	68304748		-	MGI:5434293	protein coding gene	Gm20937	predicted gene, 20937	
+Y	32562854	32575773		-	MGI:5434449	protein coding gene	Gm21094	predicted gene, 21094	
+Y	84108548	84134763		+	MGI:5434450	protein coding gene	Gm21095	predicted gene, 21095	
+Y	51123225	51147865		+	MGI:5434472	protein coding gene	Gm21117	predicted gene, 21117	
+Y	70282710	70283393		-	MGI:5434473	protein coding gene	Gm21118	predicted gene, 21118	
+Y	76772869	76798998		+	MGI:5434528	protein coding gene	Gm21173	predicted gene, 21173	
+Y	49569158	49593809		+	MGI:5434564	protein coding gene	Gm21209	predicted gene, 21209	
+Y	7167094	7167777		-	MGI:5434599	protein coding gene	Gm21244	predicted gene, 21244	
+Y	47455584	47468456		+	MGI:5434611	protein coding gene	Gm21256	predicted gene, 21256	
+Y	52776607	52802829		+	MGI:5434613	protein coding gene	Gm21258	predicted gene, 21258	
+Y	9131005	9132555		-	MGI:5434647	protein coding gene	Gm21292	predicted gene, 21292	
+Y	89064075	89090284		+	MGI:5434649	protein coding gene	Gm21294	predicted gene, 21294	
+Y	10144861	10145655		-	MGI:5434665	protein coding gene	Gm21310	predicted gene, 21310	
+Y	82237918	82262492		+	MGI:5434672	protein coding gene	Gm21317	predicted gene, 21317	
+Y	22830762	22855314		-	MGI:5434721	protein coding gene	Gm21366	predicted gene, 21366	
+Y	12688110	12690064		+	MGI:5434734	protein coding gene	Gm21379	predicted gene, 21379	
+Y	84573844	84576176		-	MGI:5434749	protein coding gene	Gm21394	predicted gene, 21394	
+Y	84759376	84783975		+	MGI:5434764	protein coding gene	Gm21409	predicted gene, 21409	
+Y	13163486	13164280		+	MGI:5434780	protein coding gene	Gm21425	predicted gene, 21425	
+Y	13252391	13254832		+	MGI:5434795	protein coding gene	Gm21440	predicted gene, 21440	
+Y	13376403	13378797		+	MGI:5434809	protein coding gene	Gm21454	predicted gene, 21454	
+Y	87129515	87153989		+	MGI:5434832	protein coding gene	Gm21477	predicted gene, 21477	
+Y	27451267	27475842		-	MGI:5434843	protein coding gene	Gm21488	predicted gene, 21488	
+Y	61655274	61681389		+	MGI:5434852	protein coding gene	Gm21497	predicted gene, 21497	
+Y	62200817	62225470		+	MGI:5434873	protein coding gene	Gm21518	predicted gene, 21518	
+Y	63238379	63262981		+	MGI:5434982	protein coding gene	Gm21627	predicted gene, 21627	
+Y	77705501	77730111		+	MGI:5435005	protein coding gene	Gm21650	predicted gene, 21650	
+Y	3294976	3306449		-	MGI:5435032	protein coding gene	Rbmyf5	RNA binding motif protein Y-linked family member 5	
+Y	3326750	3345329		-	MGI:5435048	protein coding gene	Rbmyf6	RNA binding motif protein Y-linked family member 6	
+Y	3367143	3378783		-	MGI:5435059	protein coding gene	Rbmyf7	RNA binding motif protein Y-linked family member 7	
+Y	3399188	3410167		-	MGI:5435063	protein coding gene	Rbmyf8	RNA binding motif protein Y-linked family member 8	
+Y	57539945	57542254		-	MGI:5439394	protein coding gene	Gm21943	predicted gene, 21943	
+Y	14402154	14426602		+	MGI:5589896	protein coding gene	Gm30737	predicted gene, 30737	
+Y	22020644	22046833		-	MGI:5590730	protein coding gene	Gm31571	predicted gene, 31571	
+Y	69334082	69334612		+	MGI:5592974	protein coding gene	Gm33815	predicted gene, 33815	
+Y	19114450	19138897		+	MGI:5594293	protein coding gene	Gm35134	predicted gene, 35134	
+Y	90753998	90756352		+	MGI:6366692	protein coding gene	Gm52481	predicted gene, 52481	
+Y	56948984	56949667		-	MGI:6723209	protein coding gene	Gm54091	predicted gene, 54091	
+Y	43471067	43471750		+	MGI:6723211	protein coding gene	Gm54092	predicted gene, 54092	
+Y	206151	207788		+	MGI:1916688	lncRNA gene	1700020D14Rik	RIKEN cDNA 1700020D14 gene	
+Y	1161073	1162805		-	MGI:1924628	lncRNA gene	C030026M15Rik	RIKEN cDNA C030026M15 gene	
+Y	2346449	2348631		+	MGI:5622440	lncRNA gene	Gm39555	predicted gene, 39555	
+Y	59093636	59095914		-	MGI:5578778	lncRNA gene	Gm28072	predicted gene 28072	
+Y	58964809	58967173		-	MGI:5578779	lncRNA gene	Gm28073	predicted gene 28073	
+Y	59030688	59033927		-	MGI:5578780	lncRNA gene	Gm28074	predicted gene 28074	
+Y	69813114	69816350		+	MGI:5578787	lncRNA gene	Gm28081	predicted gene 28081	
+Y	70101163	70104401		+	MGI:5578788	lncRNA gene	Gm28082	predicted gene 28082	
+Y	30597432	30600664		-	MGI:5578794	lncRNA gene	Gm28088	predicted gene 28088	
+Y	30568498	30571733		-	MGI:5578795	lncRNA gene	Gm28089	predicted gene 28089	
+Y	30378912	30381275		+	MGI:5578797	lncRNA gene	Gm28091	predicted gene 28091	
+Y	30351515	30352042		+	MGI:5578798	lncRNA gene	Gm28092	predicted gene 28092	
+Y	87999193	88005913		-	MGI:5578809	lncRNA gene	Gm28103	predicted gene 28103	
+Y	87966511	87969859		-	MGI:5578810	lncRNA gene	Gm28104	predicted gene 28104	
+Y	87721235	87724471		+	MGI:5578814	lncRNA gene	Gm28108	predicted gene 28108	
+Y	87685933	87689273		-	MGI:5578815	lncRNA gene	Gm28109	predicted gene 28109	
+Y	81921959	81925197		+	MGI:5578830	lncRNA gene	Gm28124	predicted gene 28124	
+Y	82121972	82123514		+	MGI:5578832	lncRNA gene	Gm28126	predicted gene 28126	
+Y	29175037	29177401		+	MGI:5578833	lncRNA gene	Gm28127	predicted gene 28127	
+Y	29219197	29219724		+	MGI:5578834	lncRNA gene	Gm28128	predicted gene 28128	
+Y	29112141	29114420		+	MGI:5578835	lncRNA gene	Gm28129	predicted gene 28129	
+Y	29514005	29517240		-	MGI:5578836	lncRNA gene	Gm28130	predicted gene 28130	
+Y	29543023	29546255		-	MGI:5578837	lncRNA gene	Gm28131	predicted gene 28131	
+Y	29350593	29351039		+	MGI:5578838	lncRNA gene	Gm28132	predicted gene 28132	
+Y	66134867	66137765		+	MGI:5578839	lncRNA gene	Gm28133	predicted gene 28133	
+Y	65804882	65808226		-	MGI:5578840	lncRNA gene	Gm28134	predicted gene 28134	
+Y	65840255	65843494		+	MGI:5578841	lncRNA gene	Gm28135	predicted gene 28135	
+Y	66130828	66137553		-	MGI:5578843	lncRNA gene	Gm28137	predicted gene 28137	
+Y	66099290	66102637		-	MGI:5578844	lncRNA gene	Gm28138	predicted gene 28138	
+Y	8412716	8415081		+	MGI:5578853	lncRNA gene	Gm28147	predicted gene 28147	
+Y	85676858	85680095		+	MGI:5578858	lncRNA gene	Gm28152	predicted gene 28152	
+Y	80252441	80255782		-	MGI:5578863	lncRNA gene	Gm28157	predicted gene 28157	
+Y	32260391	32262754		+	MGI:5578876	lncRNA gene	Gm28170	predicted gene 28170	
+Y	5899578	5902813		-	MGI:5578879	lncRNA gene	Gm28173	predicted gene 28173	
+Y	74647091	74647949		+	MGI:5578880	lncRNA gene	Gm28174	predicted gene 28174	
+Y	38827980	38830343		-	MGI:5578882	lncRNA gene	Gm28176	predicted gene 28176	
+Y	48224625	48225152		+	MGI:5578900	lncRNA gene	Gm28194	predicted gene 28194	
+Y	52493585	52496823		+	MGI:5578903	lncRNA gene	Gm28197	predicted gene 28197	
+Y	55794370	55797712		-	MGI:5578907	lncRNA gene	Gm28201	predicted gene 28201	
+Y	55830043	55832939		+	MGI:5578908	lncRNA gene	Gm28202	predicted gene 28202	
+Y	56087981	56091328		-	MGI:5578912	lncRNA gene	Gm28206	predicted gene 28206	
+Y	56121852	56125090		+	MGI:5578913	lncRNA gene	Gm28207	predicted gene 28207	
+Y	56163202	56166098		+	MGI:5578914	lncRNA gene	Gm28208	predicted gene 28208	
+Y	33245210	33245656		+	MGI:5578916	lncRNA gene	Gm28210	predicted gene 28210	
+Y	37038156	37039696		-	MGI:5578918	lncRNA gene	Gm28212	predicted gene 28212	
+Y	30150597	30151124		+	MGI:5578922	lncRNA gene	Gm28216	predicted gene 28216	
+Y	30265449	30266459		-	MGI:5578923	lncRNA gene	Gm28217	predicted gene 28217	
+Y	86230613	86233850		+	MGI:5578924	lncRNA gene	Gm28218	predicted gene 28218	
+Y	86011028	86014268		+	MGI:5578926	lncRNA gene	Gm28220	predicted gene 28220	
+Y	82686996	82690235		+	MGI:5578931	lncRNA gene	Gm28225	predicted gene 28225	
+Y	82651759	82655107		-	MGI:5578932	lncRNA gene	Gm28226	predicted gene 28226	
+Y	53139014	53140555		+	MGI:5578939	lncRNA gene	Gm28233	predicted gene 28233	
+Y	53143219	53144633		-	MGI:5578941	lncRNA gene	Gm28235	predicted gene 28235	
+Y	53230589	53233828		+	MGI:5578942	lncRNA gene	Gm28236	predicted gene 28236	
+Y	70534485	70535091		-	MGI:5578944	lncRNA gene	Gm28238	predicted gene 28238	
+Y	4586871	4590103		+	MGI:5578948	lncRNA gene	Gm28242	predicted gene 28242	
+Y	27116922	27118463		-	MGI:5578950	lncRNA gene	Gm28244	predicted gene 28244	
+Y	26790973	26794208		-	MGI:5578951	lncRNA gene	Gm28245	predicted gene 28245	
+Y	26827232	26830579		+	MGI:5578952	lncRNA gene	Gm28246	predicted gene 28246	
+Y	27021271	27024506		-	MGI:5578955	lncRNA gene	Gm28249	predicted gene 28249	
+Y	27059124	27062472		+	MGI:5578956	lncRNA gene	Gm28250	predicted gene 28250	
+Y	64643457	64646696		+	MGI:5578958	lncRNA gene	Gm28252	predicted gene 28252	
+Y	64947999	64951341		+	MGI:5578960	lncRNA gene	Gm28254	predicted gene 28254	
+Y	73837428	73840664		+	MGI:5578965	lncRNA gene	Gm28259	predicted gene 28259	
+Y	35413791	35417030		-	MGI:5578966	lncRNA gene	Gm28260	predicted gene 28260	
+Y	35507028	35508611		-	MGI:5578970	lncRNA gene	Gm28264	predicted gene 28264	
+Y	53997836	54000732		+	MGI:5578980	lncRNA gene	Gm28274	predicted gene 28274	
+Y	53962139	53965481		-	MGI:5578982	lncRNA gene	Gm28276	predicted gene 28276	
+Y	44109952	44113186		-	MGI:5578984	lncRNA gene	Gm28278	predicted gene 28278	
+Y	44123469	44126701		-	MGI:5578985	lncRNA gene	Gm28279	predicted gene 28279	
+Y	43820606	43822969		+	MGI:5578986	lncRNA gene	Gm28280	predicted gene 28280	
+Y	58697114	58700349		-	MGI:5578990	lncRNA gene	Gm28284	predicted gene 28284	
+Y	54287093	54290332		+	MGI:5578997	lncRNA gene	Gm28291	predicted gene 28291	
+Y	54328153	54331390		+	MGI:5578999	lncRNA gene	Gm28293	predicted gene 28293	
+Y	32199403	32201766		+	MGI:5579001	lncRNA gene	Gm28295	predicted gene 28295	
+Y	32136979	32139342		+	MGI:5579002	lncRNA gene	Gm28296	predicted gene 28296	
+Y	31795357	31797635		-	MGI:5579003	lncRNA gene	Gm28297	predicted gene 28297	
+Y	31732883	31735247		-	MGI:5579004	lncRNA gene	Gm28298	predicted gene 28298	
+Y	90614770	90617133		-	MGI:5579006	lncRNA gene	Gm28300	predicted gene 28300	
+Y	90676615	90678894		-	MGI:5579007	lncRNA gene	Gm28301	predicted gene 28301	
+Y	43031744	43034976		-	MGI:5579016	lncRNA gene	Gm28310	predicted gene 28310	
+Y	43002855	43006089		-	MGI:5579017	lncRNA gene	Gm28311	predicted gene 28311	
+Y	42788498	42789025		+	MGI:5579018	lncRNA gene	Gm28312	predicted gene 28312	
+Y	51405548	51407130		+	MGI:5579019	lncRNA gene	Gm28313	predicted gene 28313	
+Y	51456669	51460012		-	MGI:5579021	lncRNA gene	Gm28315	predicted gene 28315	
+Y	51492011	51495250		+	MGI:5579022	lncRNA gene	Gm28316	predicted gene 28316	
+Y	51247851	51251192		-	MGI:5579023	lncRNA gene	Gm28317	predicted gene 28317	
+Y	51277174	51280412		+	MGI:5579024	lncRNA gene	Gm28318	predicted gene 28318	
+Y	58493574	58502684		+	MGI:5579031	lncRNA gene	Gm28325	predicted gene 28325	
+Y	58435637	58437998		+	MGI:5579032	lncRNA gene	Gm28326	predicted gene 28326	
+Y	8675892	8678256		+	MGI:5579037	lncRNA gene	Gm28331	predicted gene 28331	
+Y	36228508	36231745		-	MGI:5579038	lncRNA gene	Gm28332	predicted gene 28332	
+Y	36263746	36267089		+	MGI:5579039	lncRNA gene	Gm28333	predicted gene 28333	
+Y	36346482	36346928		-	MGI:5579042	lncRNA gene	Gm28336	predicted gene 28336	
+Y	36451056	36454295		-	MGI:5579044	lncRNA gene	Gm28338	predicted gene 28338	
+Y	85642562	85644875		-	MGI:5579051	lncRNA gene	Gm28345	predicted gene 28345	
+Y	85613079	85616425		-	MGI:5579052	lncRNA gene	Gm28346	predicted gene 28346	
+Y	85196350	85197931		+	MGI:5579054	lncRNA gene	Gm28348	predicted gene 28348	
+Y	55627404	55630750		-	MGI:5579058	lncRNA gene	Gm28352	predicted gene 28352	
+Y	55571219	55572762		+	MGI:5579061	lncRNA gene	Gm28355	predicted gene 28355	
+Y	4885200	4887558		-	MGI:5579063	lncRNA gene	Gm28357	predicted gene 28357	
+Y	87065986	87069223		+	MGI:5579071	lncRNA gene	Gm28365	predicted gene 28365	
+Y	87288405	87291640		+	MGI:5579073	lncRNA gene	Gm28367	predicted gene 28367	
+Y	7552848	7556083		+	MGI:5579099	lncRNA gene	Gm28393	predicted gene 28393	
+Y	7415351	7418585		+	MGI:5579100	lncRNA gene	Gm28394	predicted gene 28394	
+Y	7378876	7382220		-	MGI:5579101	lncRNA gene	Gm28395	predicted gene 28395	
+Y	7299029	7299475		+	MGI:5579104	lncRNA gene	Gm28398	predicted gene 28398	
+Y	88313354	88316589		+	MGI:5579111	lncRNA gene	Gm28405	predicted gene 28405	
+Y	88429561	88431142		+	MGI:5579112	lncRNA gene	Gm28406	predicted gene 28406	
+Y	88707734	88710970		+	MGI:5579113	lncRNA gene	Gm28407	predicted gene 28407	
+Y	79177139	79178681		+	MGI:5579127	lncRNA gene	Gm28421	predicted gene 28421	
+Y	79268762	79272014		+	MGI:5579128	lncRNA gene	Gm28422	predicted gene 28422	
+Y	41401167	41403527		+	MGI:5579131	lncRNA gene	Gm28425	predicted gene 28425	
+Y	41372777	41375141		+	MGI:5579132	lncRNA gene	Gm28426	predicted gene 28426	
+Y	41337782	41341116		-	MGI:5579133	lncRNA gene	Gm28427	predicted gene 28427	
+Y	6224822	6227191		-	MGI:5579136	lncRNA gene	Gm28430	predicted gene 28430	
+Y	70571399	70574741		-	MGI:5579137	lncRNA gene	Gm28431	predicted gene 28431	
+Y	70606727	70609965		+	MGI:5579138	lncRNA gene	Gm28432	predicted gene 28432	
+Y	86551475	86554713		+	MGI:5579146	lncRNA gene	Gm28440	predicted gene 28440	
+Y	6952407	6952905		+	MGI:5579148	lncRNA gene	Gm28442	predicted gene 28442	
+Y	6724211	6727474		-	MGI:5579150	lncRNA gene	Gm28444	predicted gene 28444	
+Y	6974976	6978213		+	MGI:5579151	lncRNA gene	Gm28445	predicted gene 28445	
+Y	27536095	27539330		-	MGI:5579160	lncRNA gene	Gm28454	predicted gene 28454	
+Y	45829380	45831743		+	MGI:5579162	lncRNA gene	Gm28456	predicted gene 28456	
+Y	45181085	45184316		+	MGI:5579163	lncRNA gene	Gm28457	predicted gene 28457	
+Y	45404305	45407537		+	MGI:5579164	lncRNA gene	Gm28458	predicted gene 28458	
+Y	45767025	45769385		+	MGI:5579166	lncRNA gene	Gm28460	predicted gene 28460	
+Y	45744076	45744603		+	MGI:5579167	lncRNA gene	Gm28461	predicted gene 28461	
+Y	69011221	69012780		-	MGI:5579168	lncRNA gene	Gm28462	predicted gene 28462	
+Y	35717131	35720360		-	MGI:5579169	lncRNA gene	Gm28463	predicted gene 28463	
+Y	34104200	34106563		+	MGI:5579170	lncRNA gene	Gm28464	predicted gene 28464	
+Y	35971070	35974415		+	MGI:5579175	lncRNA gene	Gm28469	predicted gene 28469	
+Y	35936307	35939545		-	MGI:5579176	lncRNA gene	Gm28470	predicted gene 28470	
+Y	84046461	84049700		+	MGI:5579178	lncRNA gene	Gm28472	predicted gene 28472	
+Y	84268910	84272146		+	MGI:5579181	lncRNA gene	Gm28475	predicted gene 28475	
+Y	71637507	71647904		-	MGI:5579188	lncRNA gene	Gm28482	predicted gene 28482	
+Y	71641232	71644471		+	MGI:5579191	lncRNA gene	Gm28485	predicted gene 28485	
+Y	31245726	31248087		+	MGI:5579192	lncRNA gene	Gm28486	predicted gene 28486	
+Y	31404051	31407282		+	MGI:5579193	lncRNA gene	Gm28487	predicted gene 28487	
+Y	31464768	31468003		-	MGI:5579194	lncRNA gene	Gm28488	predicted gene 28488	
+Y	31493683	31496915		-	MGI:5579197	lncRNA gene	Gm28491	predicted gene 28491	
+Y	10151537	10154879		-	MGI:5579215	lncRNA gene	Gm28509	predicted gene 28509	
+Y	34019043	34019570		+	MGI:5579223	lncRNA gene	Gm28517	predicted gene 28517	
+Y	33338010	33341245		-	MGI:5579224	lncRNA gene	Gm28518	predicted gene 28518	
+Y	33366948	33370180		-	MGI:5579225	lncRNA gene	Gm28519	predicted gene 28519	
+Y	33401372	33404604		-	MGI:5579226	lncRNA gene	Gm28520	predicted gene 28520	
+Y	33632972	33635336		-	MGI:5579227	lncRNA gene	Gm28521	predicted gene 28521	
+Y	33695556	33697834		-	MGI:5579228	lncRNA gene	Gm28522	predicted gene 28522	
+Y	57567745	57571992		-	MGI:5579238	lncRNA gene	Gm28532	predicted gene 28532	
+Y	77830030	77833373		-	MGI:5579244	lncRNA gene	Gm28538	predicted gene 28538	
+Y	77654946	77658183		+	MGI:5579246	lncRNA gene	Gm28540	predicted gene 28540	
+Y	77762372	77763394		-	MGI:5579247	lncRNA gene	Gm28541	predicted gene 28541	
+Y	38022387	38025625		-	MGI:5579251	lncRNA gene	Gm28545	predicted gene 28545	
+Y	38057568	38060910		+	MGI:5579253	lncRNA gene	Gm28547	predicted gene 28547	
+Y	46608269	46611503		+	MGI:5579255	lncRNA gene	Gm28549	predicted gene 28549	
+Y	46914639	46916999		-	MGI:5579256	lncRNA gene	Gm28550	predicted gene 28550	
+Y	47362549	47363076		+	MGI:5579260	lncRNA gene	Gm28554	predicted gene 28554	
+Y	65511343	65514685		-	MGI:5579267	lncRNA gene	Gm28561	predicted gene 28561	
+Y	47256776	47259054		+	MGI:5579271	lncRNA gene	Gm28565	predicted gene 28565	
+Y	47296338	47296865		+	MGI:5579272	lncRNA gene	Gm28566	predicted gene 28566	
+Y	43406479	43409712		-	MGI:5579274	lncRNA gene	Gm28568	predicted gene 28568	
+Y	7884460	7887694		+	MGI:5579276	lncRNA gene	Gm28570	predicted gene 28570	
+Y	7848018	7851362		-	MGI:5579277	lncRNA gene	Gm28571	predicted gene 28571	
+Y	7768203	7768649		+	MGI:5579281	lncRNA gene	Gm28575	predicted gene 28575	
+Y	35818478	35819500		+	MGI:5579291	lncRNA gene	Gm28585	predicted gene 28585	
+Y	869709	873309		-	MGI:5579293	lncRNA gene	Gm28587	predicted gene 28587	
+Y	841783	847750		-	MGI:5579294	lncRNA gene	Gm28588	predicted gene 28588	
+Y	6259341	6262689		+	MGI:5579299	lncRNA gene	Gm28593	predicted gene 28593	
+Y	40060001	40067892		+	MGI:5579301	lncRNA gene	Gm28595	predicted gene 28595	
+Y	62137279	62140517		+	MGI:5579306	lncRNA gene	Gm28600	predicted gene 28600	
+Y	46939447	46939974		-	MGI:5579310	lncRNA gene	Gm28604	predicted gene 28604	
+Y	75664495	75667734		+	MGI:5579312	lncRNA gene	Gm28606	predicted gene 28606	
+Y	67161864	67168261		-	MGI:5579318	lncRNA gene	Gm28612	predicted gene 28612	
+Y	67165675	67168470		+	MGI:5579319	lncRNA gene	Gm28613	predicted gene 28613	
+Y	40449833	40452112		-	MGI:5579323	lncRNA gene	Gm28617	predicted gene 28617	
+Y	40594038	40596403		-	MGI:5579325	lncRNA gene	Gm28619	predicted gene 28619	
+Y	69252787	69256026		-	MGI:5579338	lncRNA gene	Gm28632	predicted gene 28632	
+Y	68910098	68912594		-	MGI:5579339	lncRNA gene	Gm28633	predicted gene 28633	
+Y	12211889	12212386		+	MGI:5579362	lncRNA gene	Gm28656	predicted gene 28656	
+Y	78371897	78375134		+	MGI:5579369	lncRNA gene	Gm28663	predicted gene 28663	
+Y	78368078	78378548		-	MGI:5579370	lncRNA gene	Gm28664	predicted gene 28664	
+Y	71418519	71421758		+	MGI:5579374	lncRNA gene	Gm28668	predicted gene 28668	
+Y	89402797	89406030		+	MGI:5579376	lncRNA gene	Gm28670	predicted gene 28670	
+Y	89233336	89236565		+	MGI:5579378	lncRNA gene	Gm28672	predicted gene 28672	
+Y	89618928	89622163		-	MGI:5579379	lncRNA gene	Gm28673	predicted gene 28673	
+Y	89647475	89650707		-	MGI:5579380	lncRNA gene	Gm28674	predicted gene 28674	
+Y	50025140	50028379		+	MGI:5579385	lncRNA gene	Gm28679	predicted gene 28679	
+Y	49693803	49697145		-	MGI:5579387	lncRNA gene	Gm28681	predicted gene 28681	
+Y	49729018	49732257		+	MGI:5579390	lncRNA gene	Gm28684	predicted gene 28684	
+Y	60630853	60634086		-	MGI:5579393	lncRNA gene	Gm28687	predicted gene 28687	
+Y	60593620	60594147		-	MGI:5579395	lncRNA gene	Gm28689	predicted gene 28689	
+Y	60566546	60568906		-	MGI:5579396	lncRNA gene	Gm28690	predicted gene 28690	
+Y	60343643	60346875		+	MGI:5579397	lncRNA gene	Gm28691	predicted gene 28691	
+Y	60373034	60375396		+	MGI:5579398	lncRNA gene	Gm28692	predicted gene 28692	
+Y	80547675	80551023		-	MGI:5579402	lncRNA gene	Gm28696	predicted gene 28696	
+Y	47319171	47321535		+	MGI:5579403	lncRNA gene	Gm28697	predicted gene 28697	
+Y	77490182	77492406		+	MGI:5579407	lncRNA gene	Gm28701	predicted gene 28701	
+Y	77488086	77493212		-	MGI:5579408	lncRNA gene	Gm28702	predicted gene 28702	
+Y	77617224	77620570		-	MGI:5579410	lncRNA gene	Gm28704	predicted gene 28704	
+Y	57352257	57362703		-	MGI:5579415	lncRNA gene	Gm28709	predicted gene 28709	
+Y	88190275	88193620		-	MGI:5579424	lncRNA gene	Gm28718	predicted gene 28718	
+Y	28801709	28804072		-	MGI:5579431	lncRNA gene	Gm28725	predicted gene 28725	
+Y	49022863	49026102		+	MGI:5579432	lncRNA gene	Gm28726	predicted gene 28726	
+Y	52901734	52905076		-	MGI:5579438	lncRNA gene	Gm28732	predicted gene 28732	
+Y	52937085	52940322		+	MGI:5579439	lncRNA gene	Gm28733	predicted gene 28733	
+Y	52714483	52717722		+	MGI:5579441	lncRNA gene	Gm28735	predicted gene 28735	
+Y	81630241	81633478		+	MGI:5579447	lncRNA gene	Gm28741	predicted gene 28741	
+Y	81886681	81890029		-	MGI:5579449	lncRNA gene	Gm28743	predicted gene 28743	
+Y	48439224	48442459		+	MGI:5579459	lncRNA gene	Gm28753	predicted gene 28753	
+Y	48410299	48413530		+	MGI:5579460	lncRNA gene	Gm28754	predicted gene 28754	
+Y	84883408	84886753		-	MGI:5579464	lncRNA gene	Gm28758	predicted gene 28758	
+Y	32709931	32712295		-	MGI:5579467	lncRNA gene	Gm28761	predicted gene 28761	
+Y	32478690	32481921		-	MGI:5579468	lncRNA gene	Gm28762	predicted gene 28762	
+Y	32513341	32513787		-	MGI:5579469	lncRNA gene	Gm28763	predicted gene 28763	
+Y	32449746	32452981		-	MGI:5579470	lncRNA gene	Gm28764	predicted gene 28764	
+Y	32772366	32774644		-	MGI:5579471	lncRNA gene	Gm28765	predicted gene 28765	
+Y	38295430	38298668		-	MGI:5579477	lncRNA gene	Gm28771	predicted gene 28771	
+Y	38331844	38335184		+	MGI:5579478	lncRNA gene	Gm28772	predicted gene 28772	
+Y	38516408	38519645		-	MGI:5579480	lncRNA gene	Gm28774	predicted gene 28774	
+Y	38551562	38554905		+	MGI:5579481	lncRNA gene	Gm28775	predicted gene 28775	
+Y	38852738	38853263		-	MGI:5579492	lncRNA gene	Gm28786	predicted gene 28786	
+Y	75145003	75148242		+	MGI:5579495	lncRNA gene	Gm28789	predicted gene 28789	
+Y	28098493	28101830		+	MGI:5579504	lncRNA gene	Gm28798	predicted gene 28798	
+Y	28060534	28063771		-	MGI:5579505	lncRNA gene	Gm28799	predicted gene 28799	
+Y	36645064	36645510		-	MGI:5579516	lncRNA gene	Gm28810	predicted gene 28810	
+Y	36632325	36633347		+	MGI:5579517	lncRNA gene	Gm28811	predicted gene 28811	
+Y	78939065	78942302		+	MGI:5579519	lncRNA gene	Gm28813	predicted gene 28813	
+Y	78662528	78665322		+	MGI:5579522	lncRNA gene	Gm28816	predicted gene 28816	
+Y	78643795	78668759		-	MGI:5579523	lncRNA gene	Gm28817	predicted gene 28817	
+Y	37502673	37505910		-	MGI:5579526	lncRNA gene	Gm28820	predicted gene 28820	
+Y	85973403	85976749		-	MGI:5579529	lncRNA gene	Gm28823	predicted gene 28823	
+Y	69777798	69781141		-	MGI:5579530	lncRNA gene	Gm28824	predicted gene 28824	
+Y	83202996	83206233		+	MGI:5579538	lncRNA gene	Gm28832	predicted gene 28832	
+Y	41722179	41724457		-	MGI:5579540	lncRNA gene	Gm28834	predicted gene 28834	
+Y	71094465	71097812		-	MGI:5579545	lncRNA gene	Gm28839	predicted gene 28839	
+Y	70901967	70905206		+	MGI:5579548	lncRNA gene	Gm28842	predicted gene 28842	
+Y	40387263	40389627		-	MGI:5579556	lncRNA gene	Gm28850	predicted gene 28850	
+Y	45806463	45806990		+	MGI:5579557	lncRNA gene	Gm28851	predicted gene 28851	
+Y	26603795	26607131		+	MGI:5579558	lncRNA gene	Gm28852	predicted gene 28852	
+Y	26565801	26568697		-	MGI:5579559	lncRNA gene	Gm28853	predicted gene 28853	
+Y	26686570	26687016		-	MGI:5579564	lncRNA gene	Gm28858	predicted gene 28858	
+Y	88278113	88281457		-	MGI:5579572	lncRNA gene	Gm28866	predicted gene 28866	
+Y	27572341	27575688		+	MGI:5579584	lncRNA gene	Gm28878	predicted gene 28878	
+Y	27348883	27352219		+	MGI:5579586	lncRNA gene	Gm28880	predicted gene 28880	
+Y	44303647	44304174		-	MGI:5579592	lncRNA gene	Gm28886	predicted gene 28886	
+Y	44773755	44782728		-	MGI:5579593	lncRNA gene	Gm28887	predicted gene 28887	
+Y	60123608	60126307		+	MGI:5579595	lncRNA gene	Gm28889	predicted gene 28889	
+Y	60157878	60158404		+	MGI:5579596	lncRNA gene	Gm28890	predicted gene 28890	
+Y	80840811	80844154		-	MGI:5579604	lncRNA gene	Gm28898	predicted gene 28898	
+Y	53726191	53727736		+	MGI:5579614	lncRNA gene	Gm28908	predicted gene 28908	
+Y	89938389	89946282		-	MGI:5579636	lncRNA gene	Gm28930	predicted gene 28930	
+Y	28285623	28288858		-	MGI:5579644	lncRNA gene	Gm28938	predicted gene 28938	
+Y	51694020	51695561		+	MGI:5579650	lncRNA gene	Gm28944	predicted gene 28944	
+Y	51750159	51753497		-	MGI:5579651	lncRNA gene	Gm28945	predicted gene 28945	
+Y	51786585	51789824		+	MGI:5579653	lncRNA gene	Gm28947	predicted gene 28947	
+Y	51975007	51978350		-	MGI:5579654	lncRNA gene	Gm28948	predicted gene 28948	
+Y	52010349	52013588		+	MGI:5579656	lncRNA gene	Gm28950	predicted gene 28950	
+Y	10806574	10808312		+	MGI:5579660	lncRNA gene	Gm28954	predicted gene 28954	
+Y	10756787	10760126		-	MGI:5579661	lncRNA gene	Gm28955	predicted gene 28955	
+Y	57830463	57832825		-	MGI:5579668	lncRNA gene	Gm28962	predicted gene 28962	
+Y	57859005	57862238		-	MGI:5579669	lncRNA gene	Gm28963	predicted gene 28963	
+Y	57133574	57136816		+	MGI:5579670	lncRNA gene	Gm28964	predicted gene 28964	
+Y	57356016	57359255		+	MGI:5579671	lncRNA gene	Gm28965	predicted gene 28965	
+Y	57652100	57655341		+	MGI:5579672	lncRNA gene	Gm28966	predicted gene 28966	
+Y	85282070	85284383		-	MGI:5579676	lncRNA gene	Gm28970	predicted gene 28970	
+Y	85316374	85319611		+	MGI:5579677	lncRNA gene	Gm28971	predicted gene 28971	
+Y	85252547	85255893		-	MGI:5579678	lncRNA gene	Gm28972	predicted gene 28972	
+Y	88672462	88675805		-	MGI:5579683	lncRNA gene	Gm28977	predicted gene 28977	
+Y	28826529	28827056		-	MGI:5579690	lncRNA gene	Gm28984	predicted gene 28984	
+Y	28671051	28672592		-	MGI:5579691	lncRNA gene	Gm28985	predicted gene 28985	
+Y	28949853	28950978		+	MGI:5579692	lncRNA gene	Gm28986	predicted gene 28986	
+Y	28864342	28866621		-	MGI:5579693	lncRNA gene	Gm28987	predicted gene 28987	
+Y	40689087	40692321		-	MGI:5579699	lncRNA gene	Gm28993	predicted gene 28993	
+Y	40717850	40720213		-	MGI:5579700	lncRNA gene	Gm28994	predicted gene 28994	
+Y	7085143	7088378		+	MGI:5579705	lncRNA gene	Gm28999	predicted gene 28999	
+Y	66768261	66772452		+	MGI:5579709	lncRNA gene	Gm29003	predicted gene 29003	
+Y	27310889	27314126		-	MGI:5579727	lncRNA gene	Gm29021	predicted gene 29021	
+Y	36840242	36844291		-	MGI:5579729	lncRNA gene	Gm29023	predicted gene 29023	
+Y	36891289	36894627		+	MGI:5579731	lncRNA gene	Gm29025	predicted gene 29025	
+Y	36749455	36752690		-	MGI:5579733	lncRNA gene	Gm29027	predicted gene 29027	
+Y	36785886	36789232		+	MGI:5579734	lncRNA gene	Gm29028	predicted gene 29028	
+Y	42930494	42930940		+	MGI:5579748	lncRNA gene	Gm29042	predicted gene 29042	
+Y	8196252	8198619		+	MGI:5579749	lncRNA gene	Gm29043	predicted gene 29043	
+Y	8247646	8257801		-	MGI:5579750	lncRNA gene	Gm29044	predicted gene 29044	
+Y	8144038	8147387		-	MGI:5579752	lncRNA gene	Gm29046	predicted gene 29046	
+Y	47549381	47552613		+	MGI:5579762	lncRNA gene	Gm29056	predicted gene 29056	
+Y	63689064	63699536		-	MGI:5579766	lncRNA gene	Gm29060	predicted gene 29060	
+Y	63692871	63696110		+	MGI:5579767	lncRNA gene	Gm29061	predicted gene 29061	
+Y	52339299	52342641		+	MGI:5579769	lncRNA gene	Gm29063	predicted gene 29063	
+Y	48791655	48794894		+	MGI:5579776	lncRNA gene	Gm29070	predicted gene 29070	
+Y	84918742	84921969		+	MGI:5579777	lncRNA gene	Gm29071	predicted gene 29071	
+Y	33277090	33280321		+	MGI:5579780	lncRNA gene	Gm29074	predicted gene 29074	
+Y	34660686	34664033		+	MGI:5579783	lncRNA gene	Gm29077	predicted gene 29077	
+Y	34718477	34720020		-	MGI:5579784	lncRNA gene	Gm29078	predicted gene 29078	
+Y	34424335	34425874		-	MGI:5579786	lncRNA gene	Gm29080	predicted gene 29080	
+Y	34625479	34628719		-	MGI:5579787	lncRNA gene	Gm29081	predicted gene 29081	
+Y	67686602	67697061		+	MGI:5579788	lncRNA gene	Gm29082	predicted gene 29082	
+Y	321659	323295		-	MGI:5579795	lncRNA gene	Gm29089	predicted gene 29089	
+Y	85673035	85683514		-	MGI:5579796	lncRNA gene	Gm29090	predicted gene 29090	
+Y	86738716	86742050		-	MGI:5579797	lncRNA gene	Gm29091	predicted gene 29091	
+Y	47578323	47581558		+	MGI:5579804	lncRNA gene	Gm29098	predicted gene 29098	
+Y	74419644	74422882		+	MGI:5579814	lncRNA gene	Gm29108	predicted gene 29108	
+Y	50766623	50769862		+	MGI:5579822	lncRNA gene	Gm29116	predicted gene 29116	
+Y	50541096	50544334		+	MGI:5579823	lncRNA gene	Gm29117	predicted gene 29117	
+Y	28580060	28583297		-	MGI:5579828	lncRNA gene	Gm29122	predicted gene 29122	
+Y	59718450	59720809		-	MGI:5579836	lncRNA gene	Gm29130	predicted gene 29130	
+Y	59526218	59529453		+	MGI:5579837	lncRNA gene	Gm29131	predicted gene 29131	
+Y	59780165	59782529		-	MGI:5579838	lncRNA gene	Gm29132	predicted gene 29132	
+Y	78336563	78339904		-	MGI:5579852	lncRNA gene	Gm29146	predicted gene 29146	
+Y	5617083	5620317		-	MGI:5579864	lncRNA gene	Gm29158	predicted gene 29158	
+Y	88225573	88228811		+	MGI:5579868	lncRNA gene	Gm29162	predicted gene 29162	
+Y	48190346	48192623		+	MGI:5579872	lncRNA gene	Gm29166	predicted gene 29166	
+Y	72283195	72286433		+	MGI:5579888	lncRNA gene	Gm29182	predicted gene 29182	
+Y	80083111	80086350		+	MGI:5579896	lncRNA gene	Gm29190	predicted gene 29190	
+Y	33118945	33121306		+	MGI:5579897	lncRNA gene	Gm29191	predicted gene 29191	
+Y	6220975	6246362		+	MGI:5579899	lncRNA gene	Gm29193	predicted gene 29193	
+Y	5934890	5938242		+	MGI:5579900	lncRNA gene	Gm29194	predicted gene 29194	
+Y	6198427	6201677		-	MGI:5579904	lncRNA gene	Gm29198	predicted gene 29198	
+Y	61585831	61589070		+	MGI:5579909	lncRNA gene	Gm29203	predicted gene 29203	
+Y	61233526	61236761		+	MGI:5579910	lncRNA gene	Gm29204	predicted gene 29204	
+Y	61564750	61592459		-	MGI:5579912	lncRNA gene	Gm29206	predicted gene 29206	
+Y	61204605	61207836		+	MGI:5579913	lncRNA gene	Gm29207	predicted gene 29207	
+Y	62883427	62893890		-	MGI:5579915	lncRNA gene	Gm29209	predicted gene 29209	
+Y	46852250	46854613		-	MGI:5579916	lncRNA gene	Gm29210	predicted gene 29210	
+Y	46877022	46877549		-	MGI:5579919	lncRNA gene	Gm29213	predicted gene 29213	
+Y	40323062	40325420		-	MGI:5579921	lncRNA gene	Gm29215	predicted gene 29215	
+Y	67690041	67693278		-	MGI:5579923	lncRNA gene	Gm29217	predicted gene 29217	
+Y	67480880	67484118		-	MGI:5579925	lncRNA gene	Gm29219	predicted gene 29219	
+Y	56435449	56438690		+	MGI:5579926	lncRNA gene	Gm29220	predicted gene 29220	
+Y	56416855	56426346		+	MGI:5579927	lncRNA gene	Gm29221	predicted gene 29221	
+Y	56393530	56396876		-	MGI:5579928	lncRNA gene	Gm29222	predicted gene 29222	
+Y	34919203	34922440		-	MGI:5579931	lncRNA gene	Gm29225	predicted gene 29225	
+Y	34954443	34957786		+	MGI:5579932	lncRNA gene	Gm29226	predicted gene 29226	
+Y	53523992	53527230		+	MGI:5579954	lncRNA gene	Gm29248	predicted gene 29248	
+Y	53432407	53433960		+	MGI:5579956	lncRNA gene	Gm29250	predicted gene 29250	
+Y	53488746	53492093		-	MGI:5579958	lncRNA gene	Gm29252	predicted gene 29252	
+Y	73436584	73439822		+	MGI:5579961	lncRNA gene	Gm29255	predicted gene 29255	
+Y	64419675	64422914		+	MGI:5579971	lncRNA gene	Gm29265	predicted gene 29265	
+Y	49470399	49473740		-	MGI:5579976	lncRNA gene	Gm29270	predicted gene 29270	
+Y	49505627	49508865		+	MGI:5579977	lncRNA gene	Gm29271	predicted gene 29271	
+Y	42414903	42418140		-	MGI:5579980	lncRNA gene	Gm29274	predicted gene 29274	
+Y	42442989	42446223		-	MGI:5579981	lncRNA gene	Gm29275	predicted gene 29275	
+Y	75367611	75370847		+	MGI:5579984	lncRNA gene	Gm29278	predicted gene 29278	
+Y	43797976	43798503		+	MGI:5579991	lncRNA gene	Gm29285	predicted gene 29285	
+Y	43758445	43760724		+	MGI:5579992	lncRNA gene	Gm29286	predicted gene 29286	
+Y	86777331	86780568		+	MGI:5580003	lncRNA gene	Gm29297	predicted gene 29297	
+Y	55148154	55151396		+	MGI:5580007	lncRNA gene	Gm29301	predicted gene 29301	
+Y	86517442	86520788		-	MGI:5580008	lncRNA gene	Gm29302	predicted gene 29302	
+Y	54600951	54604191		+	MGI:5580009	lncRNA gene	Gm29303	predicted gene 29303	
+Y	54558990	54562336		-	MGI:5580011	lncRNA gene	Gm29305	predicted gene 29305	
+Y	77456192	77459535		-	MGI:5580015	lncRNA gene	Gm29309	predicted gene 29309	
+Y	77268515	77271301		+	MGI:5580017	lncRNA gene	Gm29311	predicted gene 29311	
+Y	76934608	76937847		+	MGI:5580019	lncRNA gene	Gm29313	predicted gene 29313	
+Y	30110583	30112943		+	MGI:5580021	lncRNA gene	Gm29315	predicted gene 29315	
+Y	30087948	30088475		+	MGI:5580022	lncRNA gene	Gm29316	predicted gene 29316	
+Y	51059646	51062885		+	MGI:5580027	lncRNA gene	Gm29321	predicted gene 29321	
+Y	81407170	81410407		+	MGI:5580030	lncRNA gene	Gm29324	predicted gene 29324	
+Y	9307879	9310243		+	MGI:5580035	lncRNA gene	Gm29329	predicted gene 29329	
+Y	84688856	84692095		+	MGI:5580044	lncRNA gene	Gm29338	predicted gene 29338	
+Y	61816984	61820223		+	MGI:5580048	lncRNA gene	Gm29342	predicted gene 29342	
+Y	61798177	61823650		-	MGI:5580049	lncRNA gene	Gm29343	predicted gene 29343	
+Y	4951400	4951897		-	MGI:5580055	lncRNA gene	Gm29349	predicted gene 29349	
+Y	4903523	4904050		-	MGI:5580057	lncRNA gene	Gm29351	predicted gene 29351	
+Y	5235231	5237553		-	MGI:5580059	lncRNA gene	Gm29353	predicted gene 29353	
+Y	38890449	38892728		-	MGI:5580066	lncRNA gene	Gm29360	predicted gene 29360	
+Y	9022596	9024960		+	MGI:5580069	lncRNA gene	Gm29363	predicted gene 29363	
+Y	8986692	8990039		-	MGI:5580070	lncRNA gene	Gm29364	predicted gene 29364	
+Y	58726068	58729300		-	MGI:5580074	lncRNA gene	Gm29368	predicted gene 29368	
+Y	47861421	47861948		-	MGI:5580076	lncRNA gene	Gm29370	predicted gene 29370	
+Y	47836541	47839774		-	MGI:5580079	lncRNA gene	Gm29373	predicted gene 29373	
+Y	66530969	66534311		-	MGI:5580085	lncRNA gene	Gm29379	predicted gene 29379	
+Y	66562554	66569344		-	MGI:5580086	lncRNA gene	Gm29380	predicted gene 29380	
+Y	66566317	66569553		+	MGI:5580087	lncRNA gene	Gm29381	predicted gene 29381	
+Y	35181234	35184581		+	MGI:5580090	lncRNA gene	Gm29384	predicted gene 29384	
+Y	35146091	35149331		-	MGI:5580092	lncRNA gene	Gm29386	predicted gene 29386	
+Y	88970445	88973793		-	MGI:5580098	lncRNA gene	Gm29392	predicted gene 29392	
+Y	89005719	89008958		+	MGI:5580099	lncRNA gene	Gm29393	predicted gene 29393	
+Y	27766365	27769600		-	MGI:5580105	lncRNA gene	Gm29399	predicted gene 29399	
+Y	57042353	57043937		+	MGI:5580110	lncRNA gene	Gm29404	predicted gene 29404	
+Y	56799977	56800835		+	MGI:5580111	lncRNA gene	Gm29405	predicted gene 29405	
+Y	56949839	56951172		-	MGI:5580112	lncRNA gene	Gm29406	predicted gene 29406	
+Y	69212203	69214358		-	MGI:5580115	lncRNA gene	Gm29409	predicted gene 29409	
+Y	74811466	74814396		+	MGI:5580122	lncRNA gene	Gm29416	predicted gene 29416	
+Y	63173062	63176300		+	MGI:5580127	lncRNA gene	Gm29421	predicted gene 29421	
+Y	70391032	70394270		+	MGI:5580131	lncRNA gene	Gm29425	predicted gene 29425	
+Y	44341258	44343536		-	MGI:5580132	lncRNA gene	Gm29426	predicted gene 29426	
+Y	40322851	40328096		+	MGI:5580139	lncRNA gene	Gm29433	predicted gene 29433	
+Y	88485382	88488293		+	MGI:5580142	lncRNA gene	Gm29436	predicted gene 29436	
+Y	44776352	44779241		+	MGI:5580150	lncRNA gene	Gm29444	predicted gene 29444	
+Y	44999347	45002579		+	MGI:5580151	lncRNA gene	Gm29445	predicted gene 29445	
+Y	68714125	68717466		+	MGI:5580152	lncRNA gene	Gm29446	predicted gene 29446	
+Y	68678874	68682113		-	MGI:5580153	lncRNA gene	Gm29447	predicted gene 29447	
+Y	68400238	68403581		+	MGI:5580155	lncRNA gene	Gm29449	predicted gene 29449	
+Y	68365118	68368354		-	MGI:5580156	lncRNA gene	Gm29450	predicted gene 29450	
+Y	65324097	65327336		+	MGI:5580163	lncRNA gene	Gm29457	predicted gene 29457	
+Y	58056453	58056980		-	MGI:5580172	lncRNA gene	Gm29466	predicted gene 29466	
+Y	58088528	58091227		-	MGI:5580173	lncRNA gene	Gm29467	predicted gene 29467	
+Y	82358114	82361457		-	MGI:5580178	lncRNA gene	Gm29472	predicted gene 29472	
+Y	82393458	82396694		+	MGI:5580179	lncRNA gene	Gm29473	predicted gene 29473	
+Y	39114193	39117425		-	MGI:5580203	lncRNA gene	Gm29497	predicted gene 29497	
+Y	39367166	39369445		+	MGI:5580204	lncRNA gene	Gm29498	predicted gene 29498	
+Y	90286493	90288770		+	MGI:5580210	lncRNA gene	Gm29504	predicted gene 29504	
+Y	50255566	50258802		+	MGI:5580217	lncRNA gene	Gm29511	predicted gene 29511	
+Y	10658332	10660695		+	MGI:5580228	lncRNA gene	Gm29522	predicted gene 29522	
+Y	10626743	10629110		+	MGI:5580233	lncRNA gene	Gm29527	predicted gene 29527	
+Y	34081254	34081781		+	MGI:5580237	lncRNA gene	Gm29531	predicted gene 29531	
+Y	34041726	34044090		+	MGI:5580238	lncRNA gene	Gm29532	predicted gene 29532	
+Y	42096900	42100131		+	MGI:5580243	lncRNA gene	Gm29537	predicted gene 29537	
+Y	62656824	62660063		+	MGI:5580253	lncRNA gene	Gm29547	predicted gene 29547	
+Y	62887233	62890469		+	MGI:5580255	lncRNA gene	Gm29549	predicted gene 29549	
+Y	55370515	55373751		+	MGI:5580261	lncRNA gene	Gm29555	predicted gene 29555	
+Y	54816337	54817195		+	MGI:5580263	lncRNA gene	Gm29557	predicted gene 29557	
+Y	78162121	78165360		+	MGI:5580271	lncRNA gene	Gm29565	predicted gene 29565	
+Y	78158357	78168774		-	MGI:5580272	lncRNA gene	Gm29566	predicted gene 29566	
+Y	78063273	78064814		+	MGI:5580274	lncRNA gene	Gm29568	predicted gene 29568	
+Y	77865363	77868601		+	MGI:5580275	lncRNA gene	Gm29569	predicted gene 29569	
+Y	30899145	30901423		-	MGI:5580284	lncRNA gene	Gm29578	predicted gene 29578	
+Y	30631627	30632073		-	MGI:5580285	lncRNA gene	Gm29579	predicted gene 29579	
+Y	30497912	30498358		+	MGI:5580286	lncRNA gene	Gm29580	predicted gene 29580	
+Y	30836647	30839011		-	MGI:5580287	lncRNA gene	Gm29581	predicted gene 29581	
+Y	65546698	65549935		+	MGI:5580290	lncRNA gene	Gm29584	predicted gene 29584	
+Y	79784719	79787514		+	MGI:5580312	lncRNA gene	Gm29606	predicted gene 29606	
+Y	61781629	61784973		-	MGI:5580318	lncRNA gene	Gm29612	predicted gene 29612	
+Y	74129821	74133059		+	MGI:5580322	lncRNA gene	Gm29616	predicted gene 29616	
+Y	64383241	64386579		-	MGI:5580328	lncRNA gene	Gm29622	predicted gene 29622	
+Y	63910416	63913654		+	MGI:5580331	lncRNA gene	Gm29625	predicted gene 29625	
+Y	64125220	64128459		+	MGI:5580334	lncRNA gene	Gm29628	predicted gene 29628	
+Y	67514891	67518234		+	MGI:5580338	lncRNA gene	Gm29632	predicted gene 29632	
+Y	67727701	67731047		+	MGI:5580342	lncRNA gene	Gm29636	predicted gene 29636	
+Y	42726150	42726677		+	MGI:5580351	lncRNA gene	Gm29645	predicted gene 29645	
+Y	46579374	46582607		+	MGI:5580352	lncRNA gene	Gm29646	predicted gene 29646	
+Y	46352193	46353290		-	MGI:5580354	lncRNA gene	Gm29648	predicted gene 29648	
+Y	1048393	1049134		+	MGI:5580356	lncRNA gene	Gm29650	predicted gene 29650	
+Y	34290974	34291420		+	MGI:5580359	lncRNA gene	Gm29653	predicted gene 29653	
+Y	34366261	34369610		+	MGI:5580360	lncRNA gene	Gm29654	predicted gene 29654	
+Y	34164715	34167078		+	MGI:5580361	lncRNA gene	Gm29655	predicted gene 29655	
+Y	34141780	34142307		+	MGI:5580362	lncRNA gene	Gm29656	predicted gene 29656	
+Y	68176890	68180233		+	MGI:5580366	lncRNA gene	Gm29660	predicted gene 29660	
+Y	68142892	68146130		-	MGI:5580368	lncRNA gene	Gm29662	predicted gene 29662	
+Y	37764182	37767528		+	MGI:5580377	lncRNA gene	Gm29671	predicted gene 29671	
+Y	59497781	59500563		+	MGI:5580378	lncRNA gene	Gm29672	predicted gene 29672	
+Y	39459472	39459969		+	MGI:5588998	lncRNA gene	Gm29839	predicted gene, 29839	
+Y	24741963	24745198		-	MGI:5589204	lncRNA gene	Gm30045	predicted gene, 30045	
+Y	20759357	20759803		+	MGI:5610157	lncRNA gene	Gm36929	predicted gene, 36929	
+Y	17833041	17835401		-	MGI:5610169	lncRNA gene	Gm36941	predicted gene, 36941	
+Y	21052482	21055721		-	MGI:5610178	lncRNA gene	Gm36950	predicted gene, 36950	
+Y	15444179	15445304		+	MGI:5610287	lncRNA gene	Gm37059	predicted gene, 37059	
+Y	25032686	25035923		-	MGI:5610299	lncRNA gene	Gm37071	predicted gene, 37071	
+Y	22140625	22143968		+	MGI:5610303	lncRNA gene	Gm37075	predicted gene, 37075	
+Y	24774736	24778084		+	MGI:5610340	lncRNA gene	Gm37112	predicted gene, 37112	
+Y	13952701	13955065		+	MGI:5610358	lncRNA gene	Gm37130	predicted gene, 37130	
+Y	13307101	13310334		-	MGI:5610375	lncRNA gene	Gm37147	predicted gene, 37147	
+Y	24261581	24264930		+	MGI:5610385	lncRNA gene	Gm37157	predicted gene, 37157	
+Y	13120040	13122400		-	MGI:5610459	lncRNA gene	Gm37231	predicted gene, 37231	
+Y	13210161	13213395		-	MGI:5610480	lncRNA gene	Gm37252	predicted gene, 37252	
+Y	13917048	13920389		-	MGI:5610491	lncRNA gene	Gm37263	predicted gene, 37263	
+Y	17922928	17926162		-	MGI:5610514	lncRNA gene	Gm37286	predicted gene, 37286	
+Y	15270053	15273287		+	MGI:5610572	lncRNA gene	Gm37344	predicted gene, 37344	
+Y	26058886	26062123		-	MGI:5610574	lncRNA gene	Gm37346	predicted gene, 37346	
+Y	13452288	13454653		-	MGI:5610606	lncRNA gene	Gm37378	predicted gene, 37378	
+Y	24519676	24522913		-	MGI:5610662	lncRNA gene	Gm37434	predicted gene, 37434	
+Y	15569795	15572225		-	MGI:5610668	lncRNA gene	Gm37440	predicted gene, 37440	
+Y	25287848	25291196		+	MGI:5610679	lncRNA gene	Gm37451	predicted gene, 37451	
+Y	23494539	23497772		-	MGI:5610682	lncRNA gene	Gm37454	predicted gene, 37454	
+Y	21346236	21349473		-	MGI:5610690	lncRNA gene	Gm37462	predicted gene, 37462	
+Y	13980581	13983815		+	MGI:5610695	lncRNA gene	Gm37467	predicted gene, 37467	
+Y	18283695	18284883		+	MGI:5610701	lncRNA gene	Gm37473	predicted gene, 37473	
+Y	22950830	22954179		+	MGI:5610766	lncRNA gene	Gm37538	predicted gene, 37538	
+Y	18972545	18973072		+	MGI:5610772	lncRNA gene	Gm37544	predicted gene, 37544	
+Y	25067926	25071266		+	MGI:5610775	lncRNA gene	Gm37547	predicted gene, 37547	
+Y	13580701	13582258		-	MGI:5610789	lncRNA gene	Gm37561	predicted gene, 37561	
+Y	15241461	15244691		+	MGI:5610800	lncRNA gene	Gm37572	predicted gene, 37572	
+Y	23748074	23751418		+	MGI:5610802	lncRNA gene	Gm37574	predicted gene, 37574	
+Y	15734796	15737530		+	MGI:5610805	lncRNA gene	Gm37577	predicted gene, 37577	
+Y	19038589	19039116		+	MGI:5610863	lncRNA gene	Gm37635	predicted gene, 37635	
+Y	14863840	14867073		+	MGI:5610882	lncRNA gene	Gm37654	predicted gene, 37654	
+Y	18293525	18295111		-	MGI:5610884	lncRNA gene	Gm37656	predicted gene, 37656	
+Y	22433508	22436856		+	MGI:5610885	lncRNA gene	Gm37657	predicted gene, 37657	
+Y	24006473	24009710		-	MGI:5610915	lncRNA gene	Gm37687	predicted gene, 37687	
+Y	21887039	21890274		-	MGI:5610918	lncRNA gene	Gm37690	predicted gene, 37690	
+Y	22691922	22695159		-	MGI:5610949	lncRNA gene	Gm37721	predicted gene, 37721	
+Y	18665417	18667781		+	MGI:5610962	lncRNA gene	Gm37734	predicted gene, 37734	
+Y	12513577	12516809		-	MGI:5610967	lncRNA gene	Gm37739	predicted gene, 37739	
+Y	19983060	19985421		+	MGI:5610968	lncRNA gene	Gm37740	predicted gene, 37740	
+Y	25800905	25804255		+	MGI:5611026	lncRNA gene	Gm37798	predicted gene, 37798	
+Y	26164220	26165242		+	MGI:5611036	lncRNA gene	Gm37808	predicted gene, 37808	
+Y	23712979	23716217		-	MGI:5611068	lncRNA gene	Gm37840	predicted gene, 37840	
+Y	17804545	17806904		-	MGI:5611093	lncRNA gene	Gm37865	predicted gene, 37865	
+Y	13423453	13426687		-	MGI:5611098	lncRNA gene	Gm37870	predicted gene, 37870	
+Y	25545763	25549000		-	MGI:5611103	lncRNA gene	Gm37875	predicted gene, 37875	
+Y	20537098	20537625		+	MGI:5611126	lncRNA gene	Gm37898	predicted gene, 37898	
+Y	20603914	20604441		+	MGI:5611155	lncRNA gene	Gm37927	predicted gene, 37927	
+Y	17867025	17870364		+	MGI:5611165	lncRNA gene	Gm37937	predicted gene, 37937	
+Y	18749156	18752497		-	MGI:5611176	lncRNA gene	Gm37948	predicted gene, 37948	
+Y	23207698	23210935		-	MGI:5611180	lncRNA gene	Gm37952	predicted gene, 37952	
+Y	19157403	19157855		+	MGI:5611226	lncRNA gene	Gm37998	predicted gene, 37998	
+Y	17225447	17228678		-	MGI:5611231	lncRNA gene	Gm38003	predicted gene, 38003	
+Y	18693357	18696591		+	MGI:5611241	lncRNA gene	Gm38013	predicted gene, 38013	
+Y	17957447	17960787		+	MGI:5611256	lncRNA gene	Gm38028	predicted gene, 38028	
+Y	21610496	21613843		+	MGI:5611282	lncRNA gene	Gm38054	predicted gene, 38054	
+Y	18199139	18202472		+	MGI:5611300	lncRNA gene	Gm38072	predicted gene, 38072	
+Y	13091542	13093901		-	MGI:5611312	lncRNA gene	Gm38084	predicted gene, 38084	
+Y	18321027	18322074		+	MGI:5611355	lncRNA gene	Gm38127	predicted gene, 38127	
+Y	26094147	26097489		+	MGI:5611364	lncRNA gene	Gm38136	predicted gene, 38136	
+Y	13335783	13338145		-	MGI:5611387	lncRNA gene	Gm38159	predicted gene, 38159	
+Y	19954018	19957248		+	MGI:5611396	lncRNA gene	Gm38168	predicted gene, 38168	
+Y	20791345	20794578		+	MGI:5611402	lncRNA gene	Gm38174	predicted gene, 38174	
+Y	18629784	18633125		-	MGI:5611437	lncRNA gene	Gm38209	predicted gene, 38209	
+Y	24041734	24045076		+	MGI:5611524	lncRNA gene	Gm38296	predicted gene, 38296	
+Y	18557838	18558876		-	MGI:5611589	lncRNA gene	Gm38361	predicted gene, 38361	
+Y	14071394	14073759		+	MGI:5611591	lncRNA gene	Gm38363	predicted gene, 38363	
+Y	21572631	21575870		-	MGI:5611598	lncRNA gene	Gm38370	predicted gene, 38370	
+Y	22398783	22401578		-	MGI:5611599	lncRNA gene	Gm38371	predicted gene, 38371	
+Y	70378719	70381846		+	MGI:3588255	lncRNA gene	4932431L22Rik	RIKEN cDNA 4932431L22 gene	
+Y	78575974	78586678		-	MGI:3716138	lncRNA gene	Orly	oppositely-transcribed, rearranged locus on the Y	
+Y	32115184	32115711		+	MGI:5433887	lncRNA gene	Gm21723	predicted gene, 21723	
+Y	31222822	31223349		+	MGI:5433944	lncRNA gene	Gm21780	predicted gene, 21780	
+Y	40346267	40346794		-	MGI:5433965	lncRNA gene	Gm21801	predicted gene, 21801	
+Y	16923785	16924282		+	MGI:5433973	lncRNA gene	Gm21809	predicted gene, 21809	
+Y	32176464	32176992		+	MGI:5433985	lncRNA gene	Gm21821	predicted gene, 21821	
+Y	32238884	32239411		+	MGI:5434006	lncRNA gene	Gm21842	predicted gene, 21842	
+Y	40412088	40412615		-	MGI:5434078	lncRNA gene	Gm21914	predicted gene, 21914	
+Y	33096043	33096570		+	MGI:5434080	lncRNA gene	Gm21916	predicted gene, 21916	
+Y	58413004	58413531		+	MGI:5434318	lncRNA gene	Gm20963	predicted gene, 20963	
+Y	59743211	59743738		-	MGI:5434333	lncRNA gene	Gm20978	predicted gene, 20978	
+Y	60655733	60656260		-	MGI:5434342	lncRNA gene	Gm20987	predicted gene, 20987	
+Y	58923255	58923782		-	MGI:5434768	lncRNA gene	Gm21413	predicted gene, 21413	
+Y	58989491	58990017		-	MGI:5434774	lncRNA gene	Gm21419	predicted gene, 21419	
+Y	59055807	59056334		-	MGI:5434783	lncRNA gene	Gm21428	predicted gene, 21428	
+Y	59804960	59805487		-	MGI:5434805	lncRNA gene	Gm21450	predicted gene, 21450	
+Y	30795102	30795629		-	MGI:5434884	lncRNA gene	Gm21529	predicted gene, 21529	
+Y	30861332	30861859		-	MGI:5434894	lncRNA gene	Gm21539	predicted gene, 21539	
+Y	31691308	31691835		-	MGI:5434917	lncRNA gene	Gm21562	predicted gene, 21562	
+Y	31757555	31758082		-	MGI:5434927	lncRNA gene	Gm21572	predicted gene, 21572	
+Y	32668010	32668537		-	MGI:5434943	lncRNA gene	Gm21588	predicted gene, 21588	
+Y	32734585	32735112		-	MGI:5434954	lncRNA gene	Gm21599	predicted gene, 21599	
+Y	33591015	33591542		-	MGI:5434981	lncRNA gene	Gm21626	predicted gene, 21626	
+Y	33657681	33658208		-	MGI:5434988	lncRNA gene	Gm21633	predicted gene, 21633	
+Y	4768840	4793479		-	MGI:2152341	lncRNA gene	4921509O09Rik	RIKEN cDNA 4921509O09 gene	
+Y	14220904	14223183		+	MGI:5589333	lncRNA gene	Gm30174	predicted gene, 30174	
+Y	14282472	14284836		+	MGI:5589512	lncRNA gene	Gm30353	predicted gene, 30353	
+Y	14347558	14349915		+	MGI:5589845	lncRNA gene	Gm30686	predicted gene, 30686	
+Y	25255092	25258327		-	MGI:5589864	lncRNA gene	Gm30705	predicted gene, 30705	
+Y	25768136	25771371		-	MGI:5590581	lncRNA gene	Gm31422	predicted gene, 31422	
+Y	15490643	15492836		+	MGI:5591101	lncRNA gene	Gm31942	predicted gene, 31942	
+Y	22105239	22108478		-	MGI:5591273	lncRNA gene	Gm32114	predicted gene, 32114	
+Y	26281270	26284505		-	MGI:5591340	lncRNA gene	Gm32181	predicted gene, 32181	
+Y	22915600	22918838		-	MGI:5593113	lncRNA gene	Gm33954	predicted gene, 33954	
+Y	23008886	23010430		-	MGI:5593376	lncRNA gene	Gm34217	predicted gene, 34217	
+Y	18933163	18935442		+	MGI:5593709	lncRNA gene	Gm34550	predicted gene, 34550	
+Y	18994762	18997125		+	MGI:5593875	lncRNA gene	Gm34716	predicted gene, 34716	
+Y	19059861	19062218		+	MGI:5594229	lncRNA gene	Gm35070	predicted gene, 35070	
+Y	31577210	31590086		-	MGI:5594716	lncRNA gene	Gm35557	predicted gene, 35557	
+Y	23806075	23807657		-	MGI:5594829	lncRNA gene	Gm35670	predicted gene, 35670	
+Y	20497512	20499791		+	MGI:5595420	lncRNA gene	Gm36261	predicted gene, 36261	
+Y	24228853	24232087		-	MGI:5595504	lncRNA gene	Gm36345	predicted gene, 36345	
+Y	20559991	20562355		+	MGI:5595626	lncRNA gene	Gm36467	predicted gene, 36467	
+Y	39406588	39407085		+	MGI:5595941	lncRNA gene	Gm36782	predicted gene, 36782	
+Y	46128251	46141188		-	MGI:6721610	lncRNA gene	Gm53270	predicted gene, 53270	
+Y	61110790	61123661		+	MGI:7510159	lncRNA gene	Gm57478	predicted gene, 57478	
+Y					MGI:5452401	rRNA gene	Gm22624	predicted gene, 22624	
+Y					MGI:5452609	rRNA gene	Gm22832	predicted gene, 22832	
+Y					MGI:5452829	rRNA gene	Gm23052	predicted gene, 23052	
+Y					MGI:5453547	rRNA gene	Gm23770	predicted gene, 23770	
+Y					MGI:5453640	rRNA gene	Gm23863	predicted gene, 23863	
+Y					MGI:5454605	rRNA gene	Gm24828	predicted gene, 24828	
+Y					MGI:5455136	rRNA gene	Gm25359	predicted gene, 25359	
+Y					MGI:5455506	rRNA gene	Gm25729	predicted gene, 25729	
+Y					MGI:5592628	unclassified non-coding RNA gene	Gm33469	predicted gene, 33469	
+Y					MGI:96296	heritable phenotypic marker	Hya	histocompatibility Y	
+Y					MGI:96297	heritable phenotypic marker	Hyab	histocompatibility Y antigen A<b>-restricted	
+Y					MGI:96300	heritable phenotypic marker	Hydk	histocompatibility Y antigen D<k>-restricted	
+Y					MGI:96303	heritable phenotypic marker	Hykk1	histocompatibility Y antigen K<k>-restricted 1	
+Y					MGI:96304	heritable phenotypic marker	Hykk2	histocompatibility Y antigen K<k>-restricted 2	
+Y					MGI:5007670	heritable phenotypic marker	Yeae	experimental allergic encephalomyelitis susceptibility region of Chr Y	
+Y					MGI:5544343	heritable phenotypic marker	m1Nish	mutation 1, Naoto Ishii	
+Y					MGI:97238	unclassified gene	Murvy	murine repeated virus, Y-linked	
+Y					MGI:1309471	unclassified gene	Gtl8	gene trap locus 8	
+Y					MGI:99141	unclassified gene	YB10	Y-specific B10-derived sequences	
+Y					MGI:5696551	unclassified gene	Gt(VET53C)Hiir	gene trap VET53C, Takashi Hiiragi	
+Y					MGI:5530848	miRNA gene	Gm27466	predicted gene, 27466	
+Y					MGI:5531045	miRNA gene	Gm27663	predicted gene, 27663	
+Y					MGI:5531083	miRNA gene	Gm27701	predicted gene, 27701	
+Y					MGI:5531400	miRNA gene	Gm28018	predicted gene, 28018	
+Y					MGI:5451896	miRNA gene	Gm22119	predicted gene, 22119	
+Y					MGI:6096127	miRNA gene	Gm47281	predicted gene, 47281	
+Y	90848051	90855176		-	MGI:5433912	protein coding gene	Gm21748	predicted gene, 21748	
+Y					MGI:1920579	protein coding gene	1700040F15Rik	RIKEN cDNA 1700040F15 gene	
+Y					MGI:5622438	protein coding gene	Gm39553	predicted gene, 39553	
+Y					MGI:5580129	protein coding gene	Gm29423	predicted gene 29423	
+Y					MGI:5581670	protein coding gene	Prssly	serine protease-like, Chr Y	
+Y					MGI:5581504	protein coding gene	Teyorf1	testis expressed, Chromosome Y open reading frame 1	
+Y					MGI:5433896	protein coding gene	Gm21732	predicted gene, 21732	
+Y					MGI:5433984	protein coding gene	Gm21820	predicted gene, 21820	
+Y					MGI:5434016	protein coding gene	Gm21852	predicted gene, 21852	
+Y					MGI:5434201	protein coding gene	Gm20845	predicted gene, 20845	
+Y					MGI:5434349	protein coding gene	Gm20994	predicted gene, 20994	
+Y					MGI:5826351	protein coding gene	Gm46714	predicted gene, 46714	
+Y					MGI:5826352	protein coding gene	Gm46715	predicted gene, 46715	
+Y					MGI:5826353	protein coding gene	Gm46716	predicted gene, 46716	
+Y					MGI:5826354	protein coding gene	Gm46717	predicted gene, 46717	
+Y					MGI:5589427	protein coding gene	Gm30268	predicted gene, 30268	
+Y					MGI:5591578	protein coding gene	Gm32419	predicted gene, 32419	
+Y					MGI:5591686	protein coding gene	Gm32527	predicted gene, 32527	
+Y					MGI:5592426	protein coding gene	Gm33267	predicted gene, 33267	
+Y					MGI:5593351	protein coding gene	Gm34192	predicted gene, 34192	
+Y	90763696	90766736		-	MGI:5434024	lncRNA gene	G530011O06Riky	RIKEN cDNA G530011O06 gene y	
+Y	90804956	90820875		+	MGI:5592431	lncRNA gene	Gm33272	predicted gene, 33272	
+Y	90796007	90827734		+	MGI:6096131	lncRNA gene	Erdr1y	erythroid differentiation regulator 1 y	
+Y					MGI:5622437	lncRNA gene	Gm39552	predicted gene, 39552	
+Y					MGI:5625293	lncRNA gene	Gm42408	predicted gene, 42408	
+Y					MGI:5625294	lncRNA gene	Gm42409	predicted gene, 42409	
+Y					MGI:5625295	lncRNA gene	Gm42410	predicted gene, 42410	
+Y					MGI:5593945	lncRNA gene	Gm34786	predicted gene, 34786	
